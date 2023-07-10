@@ -4,7 +4,7 @@
 ### A Python & Built-in AES Based Image SteganoGgraphy Tool for Advanced Sensitive Information Sharing.
 
 
-![Logo]([https://github.com/WhiteHat-Hunter/Sensitive-Information-Sharing/blob/main/Stegno-Crypt/Snapshots/1.png])
+![Logo]([https://raw.githubusercontent.com/WhiteHat-Hunter/Sensitive-Information-Sharing/main/Stegno-Crypt/Snapshots/1.png])
 
 
 ## Installation⬇️
