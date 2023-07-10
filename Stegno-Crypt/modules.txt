@@ -1,0 +1,4 @@
+pyfiglet
+opencv-python
+numpy
+pillow
