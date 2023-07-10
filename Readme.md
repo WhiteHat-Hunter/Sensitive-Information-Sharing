@@ -4,7 +4,7 @@
 ### A Python & Built-in AES Based Image SteganoGgraphy Tool for Advanced Sensitive Information Sharing.
 
 
-![Logo]([https://www.thepythoncode.com/media/articles/make-a-ransomware-in-python.jpg](https://github.com/WhiteHat-Hunter/Sensitive-Information Sharing/blob/main/Stegno-Crypt/Snapshots/1.png)
+![Logo]([https://github.com/WhiteHat-Hunter/Sensitive-Information-Sharing/blob/main/Stegno-Crypt/Snapshots/1.png])
 
 
 ## Installation⬇️
